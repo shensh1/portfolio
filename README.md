@@ -23,7 +23,7 @@
 
 Automation, business intelligence and data projects I designed and built on my own. Most were made for, and are operated at, the Taiwan subsidiary of a multinational industrial manufacturer; projects done elsewhere are listed separately.
 
-> **About this repository.** These are case studies, not source code. The systems belong to my employer, so company, partner, system and people names are replaced with generic descriptions, and no internal data, addresses or credentials appear here. I am happy to walk through design decisions in detail in conversation.
+> **About this repository.** These are case studies, not source code. The systems themselves are confidential, so company, partner, system and people names are replaced with generic descriptions, and no internal data, addresses or credentials appear here. I am happy to walk through design decisions in detail in conversation.
 
 <p align="center">
   <a href="#projects">Projects</a> ·
@@ -111,7 +111,7 @@ flowchart LR
 
 我獨立設計並建置的自動化、商業智慧與資料專案。大部分是為一家跨國工業製造商的台灣分公司製作並在當地維運；其他來源的專案另外列出。
 
-> **關於本儲存庫。** 這裡放的是案例說明，不是原始碼。系統屬於任職公司，因此公司、合作夥伴、系統與人員名稱都以一般性描述代替，也不含任何內部資料、網址或帳密。設計上的取捨歡迎在面談時詳細說明。
+> **關於本儲存庫。** 這裡放的是案例說明，不是原始碼。系統本身屬於機密，因此公司、合作夥伴、系統與人員名稱都以一般性描述代替，也不含任何內部資料、網址或帳密。設計上的取捨歡迎在面談時詳細說明。
 
 ## 一眼看懂
 
