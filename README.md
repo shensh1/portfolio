@@ -26,7 +26,7 @@ Automation, business intelligence and data projects I designed and built on my o
 > **About this repository.** These are case studies, not source code. The systems themselves are confidential, so company, partner, system and people names are replaced with generic descriptions, and no internal data, addresses or credentials appear here. I am happy to walk through design decisions in detail in conversation.
 
 <p align="center">
-  <a href="#projects">Projects</a> ·
+  <a href="#2026-projects">2026 Projects</a> ·
   <a href="#skills-these-projects-demonstrate">Skills</a> ·
   <a href="#how-i-work">How I work</a>
 </p>
@@ -37,7 +37,7 @@ Automation, business intelligence and data projects I designed and built on my o
 |:---:|:---:|:---:|:---:|:---:|
 | case studies | workflow automation systems | Power BI dashboards | Python and RPA tools | project done elsewhere |
 
-## Projects
+## 2026 Projects
 
 ### ⚙️ Workflow automation
 
@@ -119,7 +119,7 @@ flowchart LR
 |:---:|:---:|:---:|:---:|:---:|
 | 個案例 | 套流程自動化系統 | 份 Power BI 報表 | 個 Python 與 RPA 工具 | 個其他來源的專案 |
 
-## 專案
+## 2026 年專案
 
 ### ⚙️ 流程自動化
 
