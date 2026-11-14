@@ -66,7 +66,7 @@ Automation, business intelligence and data projects I designed and built. Most w
 
 ### 🧩 Other projects
 
-Independent work, done outside my day job.
+Independent work.
 
 | # | Project | What it does | Main technologies |
 |---|---|---|---|
@@ -148,7 +148,7 @@ flowchart LR
 
 ### 🧩 其他專案
 
-本業以外獨立完成的專案。
+獨立完成的專案。
 
 | # | 專案 | 做什麼 | 主要技術 |
 |---|---|---|---|
