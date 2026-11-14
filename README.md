@@ -21,7 +21,7 @@
 
 # Cynthia Shen — Project Portfolio
 
-Automation, business intelligence and data projects I designed and built. Most were made for, and are operated at, the Taiwan subsidiary of a multinational industrial manufacturer; projects done elsewhere are listed separately.
+Automation, business intelligence and data projects I designed and built on my own. Most were made for, and are operated at, the Taiwan subsidiary of a multinational industrial manufacturer; projects done elsewhere are listed separately.
 
 > **About this repository.** These are case studies, not source code. The systems belong to my employer, so company, partner, system and people names are replaced with generic descriptions, and no internal data, addresses or credentials appear here. I am happy to walk through design decisions in detail in conversation.
 
@@ -35,7 +35,7 @@ Automation, business intelligence and data projects I designed and built. Most w
 
 | 11 | 2 | 3 | 5 | 1 |
 |:---:|:---:|:---:|:---:|:---:|
-| case studies | workflow automation systems | Power BI dashboards | Python and RPA tools | independent project |
+| case studies | workflow automation systems | Power BI dashboards | Python and RPA tools | project done elsewhere |
 
 ## Projects
 
@@ -66,7 +66,7 @@ Automation, business intelligence and data projects I designed and built. Most w
 
 ### 🧩 Other projects
 
-Independent work.
+Projects done elsewhere.
 
 | # | Project | What it does | Main technologies |
 |---|---|---|---|
@@ -109,7 +109,7 @@ flowchart LR
 
 # Cynthia Shen — 專案作品集
 
-我設計並建置的自動化、商業智慧與資料專案。大部分是為一家跨國工業製造商的台灣分公司製作並在當地維運；其他來源的專案另外列出。
+我獨立設計並建置的自動化、商業智慧與資料專案。大部分是為一家跨國工業製造商的台灣分公司製作並在當地維運；其他來源的專案另外列出。
 
 > **關於本儲存庫。** 這裡放的是案例說明，不是原始碼。系統屬於任職公司，因此公司、合作夥伴、系統與人員名稱都以一般性描述代替，也不含任何內部資料、網址或帳密。設計上的取捨歡迎在面談時詳細說明。
 
@@ -117,7 +117,7 @@ flowchart LR
 
 | 11 | 2 | 3 | 5 | 1 |
 |:---:|:---:|:---:|:---:|:---:|
-| 個案例 | 套流程自動化系統 | 份 Power BI 報表 | 個 Python 與 RPA 工具 | 個獨立專案 |
+| 個案例 | 套流程自動化系統 | 份 Power BI 報表 | 個 Python 與 RPA 工具 | 個其他來源的專案 |
 
 ## 專案
 
@@ -148,7 +148,7 @@ flowchart LR
 
 ### 🧩 其他專案
 
-獨立完成的專案。
+其他來源的專案。
 
 | # | 專案 | 做什麼 | 主要技術 |
 |---|---|---|---|
