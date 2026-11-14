@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Cynthia Shen — Project Portfolio. Curious about every new tool. Serious about putting it to work." width="100%">
+  <img src="assets/banner.svg" alt="Cynthia Shen — Project Portfolio 2026. Curious about every new tool. Serious about putting it to work." width="100%">
 </p>
 
 <p align="center">
