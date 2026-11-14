@@ -2,7 +2,7 @@
 
 *[中文](#中文)*
 
-> This project was built for a catering business. It is not part of my employer's systems.
+> This project was built for a catering business.
 
 ## Problem
 A catering kitchen packs boxed meals into cartons for several corporate customers each day. Every carton needs a label showing customer, site, department, meal type and "carton i of n". Order sheets arrive in different layouts, sometimes as a photo. How many meals fit in a carton depends on the meal-box style. Labels were prepared by hand each morning, and the same numbers were typed again for accounting.
@@ -43,7 +43,7 @@ Python, openpyxl, python-docx, RapidOCR, local web interface, Windows Task Sched
 
 # 11. 團膳業者的紙箱標籤產生器
 
-> 這個專案是為一家團膳業者製作的，不屬於我雇主的系統。
+> 這個專案是為一家團膳業者製作。
 
 ## 問題
 團膳廚房每天要把便當裝箱，送到多家企業客戶。每個紙箱都要貼標籤，標明客戶、地點、部門、便當種類與「第 i/n 箱」。客戶的訂單格式各不相同，有時還是一張照片。一箱能裝幾個，要看便當盒的款式。過去每天早上人工製作標籤，同一批數字還要再打一次給會計。
