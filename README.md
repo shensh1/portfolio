@@ -48,6 +48,8 @@ Automation, business intelligence and data projects I designed and built on my o
 
 ### 📊 Business intelligence
 
+Beyond the case studies below, I build and manage 100+ Power BI reports in the Power BI Service, from data model to workspace governance.
+
 | # | Project | What it does | Main technologies |
 |---|---|---|---|
 | 2 | [Monthly sales and order dashboard](projects/02-sales-order-dashboard.md) | One report for net sales, order intake and open order book, kept under version control | Power BI (PBIP, TMDL), DAX, Snowflake, Git |
@@ -129,6 +131,8 @@ flowchart LR
 | 4 | [每日出貨報表自動寄送](projects/04-daily-report-distribution.md#中文) | 取代每天人工匯出並寄信的例行作業 | Power Automate、DAX 查詢、Office Scripts、SharePoint |
 
 ### 📊 商業智慧
+
+除了以下個案，我建置並管理 Power BI Service 上 100 份以上的報表，範圍從資料模型到工作區治理。
 
 | # | 專案 | 做什麼 | 主要技術 |
 |---|---|---|---|
